@@ -5,6 +5,6 @@ Exploring Q-learning and Deep Q-learning with easy to understand examples
 Simplest Q-learning example where agent learns to go the the right extreme of a 1D state space.
 
 ## 02_2Dmaze.py
-A 2 dimensional maze where the agent learns to find the exit point while avoiding the "bad squares", still using basic Q-learning tables.
+A 2 dimensional maze where the agent learns to find the exit point while avoiding the "bad squares", still using basic Q-learning tables. Maze environment credits to Abhishek Nandy and Manisha Biswas.
 
 ## 03_Sarsa.py
