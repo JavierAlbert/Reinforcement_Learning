@@ -1,7 +1,3 @@
-This is the simplest possible Q learning example where we have an agent
-that learns the best way to get to the finish (right extreme) of a 1D 
-discrete sequence of locations.
+This is the simplest possible Q learning example where we have an agent that learns the best way to get to the finish (right extreme) of a 1D  discrete sequence of locations.
 
-The environment is represented by 'x', the agent as 'O' and the finish
-point as 'F', and depending on the selected size of the game it will look
-as this: xxxxxOxxxxF, where the 'O' can move left or right trying to find F.
+The environment is represented by 'x', the agent as 'O' and the finish point as 'F', and depending on the selected size of the game it will look as this: xxxxxOxxxxF, where the 'O' can move left or right trying to find F.
