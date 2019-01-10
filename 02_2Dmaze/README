@@ -1,1 +1,7 @@
-vv
+This is a simple maze example for reinforcement learning
+There is an agent on a 2D maze that needs to get to the finish square
+
+Blue rectangle: agent
+Black rectangles: penalty states (reward = -1]
+Yellow rectangle: Finish [reward = 1]
+All other rectangles: nothing [reward = 0]
